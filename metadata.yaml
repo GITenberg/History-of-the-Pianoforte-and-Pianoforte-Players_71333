@@ -14,12 +14,17 @@ contributor:
     gutenberg_agent_id: '8813'
     url: http://www.gutenberg.org/2009/agents/8813
     wikipedia: https://en.wikipedia.org/wiki/Edward_Naylor
+covers:
+- cover_type: archival
+  image_path: 71333-h/images/cover.jpg
 creator:
   author:
     agent_name: Bie, Oscar
     gutenberg_agent_id: '56176'
     url: http://www.gutenberg.org/2009/agents/56176
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71333#History-of-the-Pianoforte-and-Pianoforte-Players
 gutenberg_issued: '2023-08-03'
 identifiers:
   gutenberg: '71333'
